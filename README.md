@@ -1,20 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,11,4&height=180&section=header&text=DzuyDzuy&fontSize=42&fontAlignY=45" width="100%" alt="DzuyDzuy" />
-</div>
+# Hi there, I'm DzuyDzuy 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Computer%20Science%20Senior%20%40%20Hanoi%20University%20%E2%80%A2%20Aspiring%20Software%20Engineer%3BComputer%20Science%20Senior" alt="Typing SVG" />
-</div>
+### Frontend Engineer • Design Systems & Creative Interaction
 
-## 👨‍💻 About Me
+## 🎨 Frontend & Design Engineering
 
-Final year student studying EBU course in Hanu.
+Crafting accessible, pixel-perfect user interfaces with React, Next.js, and Tailwind CSS. Passionate about typography, micro-interactions, and web performance.
 
-- 💼 Currently working as **Computer Science Senior** at **Hanoi University**
+- 💼 Currently working as **Frontend Engineer**
 - 🔭 Currently building **Distributed File Storage System in Go**
 - 🌱 Currently learning **Kubernetes, Rust, and System Design**
-- 📍 Based in **Hanoi, Vietnam**
+- 📍 Based in **Da Nang, Vietnam**
 - ⚡ Fun fact: I make pour-over coffee while reading distributed systems RFCs.
+
+## 🛠️ Frontend Toolkit
+
+<p align="left">
+  <img src="https://svgl.app/library/react_light.svg" width="36" height="36" alt="React" /> <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="36" height="36" alt="Next.js" /> <img src="https://svgl.app/library/typescript.svg" width="36" height="36" alt="TypeScript" /> <img src="https://svgl.app/library/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" /> <img src="https://cdn.simpleicons.org/framer/FF0088" width="36" height="36" alt="Motion" /> <img src="https://cdn.simpleicons.org/radixui/161618" width="36" height="36" alt="Radix UI" /> <img src="https://svgl.app/library/figma.svg" width="36" height="36" alt="Figma" /> <img src="https://svgl.app/library/jest.svg" width="36" height="36" alt="Jest" /> <img src="https://svgl.app/library/javascript.svg" width="36" height="36" alt="JavaScript" /> <img src="https://svgl.app/library/python.svg" width="36" height="36" alt="Python" /> <img src="https://svgl.app/library/java.svg" width="36" height="36" alt="Java" /> <img src="https://svgl.app/library/css.svg" width="36" height="36" alt="CSS3" /> <img src="https://svgl.app/library/golang.svg" width="36" height="36" alt="Go" /> <img src="https://svgl.app/library/rust.svg" width="36" height="36" alt="Rust" /> <img src="https://svgl.app/library/c-plusplus.svg" width="36" height="36" alt="C++" /> <img src="https://svgl.app/library/c.svg" width="36" height="36" alt="C" /> <img src="https://svgl.app/library/csharp.svg" width="36" height="36" alt="C#" /> <img src="https://svgl.app/library/php.svg" width="36" height="36" alt="PHP" /> <img src="https://svgl.app/library/dart.svg" width="36" height="36" alt="Dart" /> <img src="https://svgl.app/library/swift.svg" width="36" height="36" alt="Swift" /> <img src="https://svgl.app/library/ruby.svg" width="36" height="36" alt="Ruby" /> <img src="https://svgl.app/library/mysql-icon-light.svg" width="36" height="36" alt="SQL" /> <img src="https://svgl.app/library/kotlin.svg" width="36" height="36" alt="Kotlin" /> <img src="https://svgl.app/library/html5.svg" width="36" height="36" alt="HTML5" /> <img src="https://svgl.app/library/r.svg" width="36" height="36" alt="R" /> <img src="https://svgl.app/library/svelte.svg" width="36" height="36" alt="Svelte" /> <img src="https://svgl.app/library/sass.svg" width="36" height="36" alt="Sass" /> <img src="https://svgl.app/library/angular.svg" width="36" height="36" alt="Angular" /> <img src="https://svgl.app/library/bootstrap.svg" width="36" height="36" alt="Bootstrap" /> <img src="https://svgl.app/library/vue.svg" width="36" height="36" alt="Vue.js" /> <img src="https://svgl.app/library/nuxt.svg" width="36" height="36" alt="Nuxt.js" /> <img src="https://svgl.app/library/redux.svg" width="36" height="36" alt="Redux" /> <img src="https://svgl.app/library/astro-icon-light.svg" width="36" height="36" alt="Astro" /> <img src="https://svgl.app/library/vite.svg" width="36" height="36" alt="Vite" /> <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="Zustand" /> <img src="https://cdn.simpleicons.org/gatsby/663399" width="36" height="36" alt="Gatsby" /> <img src="https://svgl.app/library/shadcn-ui.svg" width="36" height="36" alt="shadcn/ui" /> <img src="https://cdn.simpleicons.org/jquery/0769AD" width="36" height="36" alt="jQuery" /> <img src="https://svgl.app/library/chakra-ui.svg" width="36" height="36" alt="Chakra UI" /> <img src="https://svgl.app/library/threejs-light.svg" width="36" height="36" alt="Three.js" /> <img src="https://svgl.app/library/remix_light.svg" width="36" height="36" alt="Remix" /> <img src="https://svgl.app/library/fastapi.svg" width="36" height="36" alt="FastAPI" /> <img src="https://svgl.app/library/nodejs.svg" width="36" height="36" alt="Node.js" /> <img src="https://svgl.app/library/expressjs.svg" width="36" height="36" alt="Express.js" /> <img src="https://svgl.app/library/dotnet.svg" width="36" height="36" alt=".NET" /> <img src="https://svgl.app/library/graphql.svg" width="36" height="36" alt="GraphQL" /> <img src="https://svgl.app/library/flask-light.svg" width="36" height="36" alt="Flask" /> <img src="https://svgl.app/library/laravel.svg" width="36" height="36" alt="Laravel" /> <img src="https://svgl.app/library/spring.svg" width="36" height="36" alt="Spring Boot" /> <img src="https://cdn.simpleicons.org/rubyonrails/D30001" width="36" height="36" alt="Ruby on Rails" /> <img src="https://svgl.app/library/nestjs.svg" width="36" height="36" alt="NestJS" /> <img src="https://svgl.app/library/django.svg" width="36" height="36" alt="Django" /> <img src="https://svgl.app/library/mysql-icon-light.svg" width="36" height="36" alt="MySQL" /> <img src="https://svgl.app/library/postgresql.svg" width="36" height="36" alt="PostgreSQL" /> <img src="https://svgl.app/library/supabase.svg" width="36" height="36" alt="Supabase" /> <img src="https://svgl.app/library/sqlite.svg" width="36" height="36" alt="SQLite" /> <img src="https://svgl.app/library/redis.svg" width="36" height="36" alt="Redis" /> <img src="https://svgl.app/library/mongodb-icon-light.svg" width="36" height="36" alt="MongoDB" />
+</p>
+
+## 🖼️ Interfaces & Live Demos
+
+| Project | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **duydich**<br/>Public repository by @duydich | — | [GitHub Code](https://github.com/duydich/duydich) |
+| **SEN_HANU**<br/>Public repository by @duydich | `Java` | [GitHub Code](https://github.com/duydich/SEN_HANU) |
+| **gitcanvas**<br/>Public repository by @duydich | `CSS` | [GitHub Code](https://github.com/duydich/gitcanvas) |
+| **SS2_JobFindingWeb**<br/>Public repository by @duydich | `JavaScript` | [GitHub Code](https://github.com/duydich/SS2_JobFindingWeb) |
 
 ## 🌐 Connect With Me
 
@@ -23,25 +34,12 @@ Final year student studying EBU course in Hanu.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhanh.cs@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minhanh.dev)
 
-## 🛠️ Tech Stack & Skills
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Links |
-| :--- | :--- | :--- |
-| **SEN_HANU**<br/>Public repository by @duydich | `Java` | [GitHub Code](https://github.com/duydich/SEN_HANU) |
-| **gitcanvas**<br/>Public repository by @duydich | `CSS` | [GitHub Code](https://github.com/duydich/gitcanvas) |
-| **duydich**<br/>My GitHub profile | — | [GitHub Code](https://github.com/duydich/duydich) |
-| **SS2_JobFindingWeb**<br/>Public repository by @duydich | `JavaScript` | [GitHub Code](https://github.com/duydich/SS2_JobFindingWeb) |
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duydich&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="duydich's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydich&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duydich&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duydich&show_icons=true&locale=en&theme=radical&hide_border=true" alt="duydich's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duydich&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duydich&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
 <br/>
